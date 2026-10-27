@@ -1,0 +1,15 @@
+# Control de versiones git
+.git
+.gitignore
+
+# Archivos con cajas fuertes
+.env
+.env.*
+*.pem
+*.key
+
+# Logs no deseados
+*.log
+
+# Archivos markdown
+Readme.md
